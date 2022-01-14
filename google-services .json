@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "1083104980219",
-    "project_id": "philosofy-f04cb",
+    "project_number": "",
+    "project_id": "",
     "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1083104980219:android:916e62d5ce2ff5004c945e",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "host.exp.exponent"
         }
