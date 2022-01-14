@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083104980219",
+    "project_id": "philosofy-f04cb",
+    "storage_bucket": ""
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083104980219:android:916e62d5ce2ff5004c945e",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
